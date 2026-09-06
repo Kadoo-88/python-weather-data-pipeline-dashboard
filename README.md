@@ -18,6 +18,11 @@ This project demonstrates an automated workflow for retrieving, processing, and 
 
 The application retrieves forecast data from the Open-Meteo API for Honolulu, New York, Chicago, and San Francisco. The data is processed in Python and displayed through an interactive Dash interface with city-specific forecast summaries, temperature trends, precipitation, wind conditions, and weather descriptions.
 
+## Project Documentation
+
+- [Project Features](PROJECT_FEATURES.md)
+- [User Stories](USER_STORIES.md)
+
 ## Key Features
 
 - Automated weather data extraction from the Open-Meteo API
