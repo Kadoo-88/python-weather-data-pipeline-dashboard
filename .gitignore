@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local environments
+.venv/
+venv/
+.conda/
+
+# VS Code
+.vscode/
+
+# Cache files
+.cache*
+*.sqlite
+
+# Application logs
+api_pull.log
+
+# OS files
+.DS_Store
+Thumbs.db
